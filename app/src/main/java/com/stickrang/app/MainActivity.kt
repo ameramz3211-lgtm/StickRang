@@ -116,8 +116,8 @@ class MainActivity : AppCompatActivity() {
             setOnQueryTextListener(object : SearchView.OnQueryTextListener {
                 override fun onQueryTextSubmit(q: String?) = false
                 override fun onQueryTextChange(q: String?): Boolean {
-                    query = q.orEmpty()
-                    if (query.isNotBlank()) findViewById<BottomNavigationView>(R.id.bottom_nav).selectedItemId = R.id.tab_explore
+                    this@MainActivity.query = q.orEmpty()
+                    if (this@MainActivity.query.isNotBlank()) findViewById<BottomNavigationView>(R.id.bottom_nav).selectedItemId = R.id.tab_explore
                     show()
                     return true
                 }
