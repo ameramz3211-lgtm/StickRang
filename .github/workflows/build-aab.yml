@@ -5,6 +5,9 @@ on:
   push:
     branches: [main]
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -32,3 +35,12 @@ jobs:
         with:
           name: StickRang-release-aab
           path: app/build/outputs/bundle/release/*.aab
+      # Also publish the bundle to the build-output branch so it can be fetched with plain git.
+      - name: Push bundle to build-output branch
+        run: |
+          mkdir out && cp app/build/outputs/bundle/release/*.aab out/
+          cd out
+          git init -q -b build-output
+          git -c user.name=ci -c user.email=ci@users.noreply.github.com add .
+          git -c user.name=ci -c user.email=ci@users.noreply.github.com commit -qm "Bundle from ${GITHUB_SHA}"
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${GITHUB_REPOSITORY}.git" build-output
