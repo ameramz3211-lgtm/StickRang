@@ -1,0 +1,15 @@
+StickRang - credits
+
+All sticker artwork in this app was created for StickRang.
+No characters, celebrities, logos or artwork from other creators are used.
+
+Background removal: Google ML Kit subject segmentation (runs on your device).
+
+Fonts and emoji artwork used to draw the stickers (SIL Open Font License 1.1):
+- Lilita One, Copyright (c) 2011 Juan Montoreano, Reserved Font Name "Lilita" - lilitaone-OFL.txt
+- Noto Nastaliq Urdu, Copyright 2022 The Noto Project Authors - notonastaliqurdu-OFL.txt
+- Noto Color Emoji, Copyright 2013 Google LLC - noto-color-emoji-OFL.txt
+
+App icons (cut-out, text, video, photo, explore, create, my stickers):
+- Material Icons, Copyright Google LLC, Apache License 2.0
+  https://www.apache.org/licenses/LICENSE-2.0

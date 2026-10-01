@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">StickRang</string>
+
+    <!-- tabs -->
+    <string name="tab_create">Create</string>
+    <string name="tab_explore">Explore</string>
+    <string name="tab_mine">My Stickers</string>
+
+    <!-- create tab -->
+    <string name="hero_title">Make a sticker in seconds</string>
+    <string name="hero_sub">No ads. No watermark. Works offline.</string>
+    <string name="create_cutout">Cut-out</string>
+    <string name="create_cutout_sub">Remove a photo\'s background</string>
+    <string name="create_text">Text</string>
+    <string name="create_text_sub">Words with style, any language</string>
+    <string name="create_media">GIF / Video</string>
+    <string name="create_media_sub">Make it move</string>
+    <string name="create_photo">Photo</string>
+    <string name="create_photo_sub">Round or square with a caption</string>
+    <string name="create_tip">Tip: add any pack to WhatsApp with one tap from Explore or My Stickers.</string>
+
+    <!-- explore / packs -->
+    <string name="cat_all">All</string>
+    <string name="cat_funny">Funny</string>
+    <string name="cat_love">Love</string>
+    <string name="cat_greetings">Greetings</string>
+    <string name="cat_celebrations">Party</string>
+    <string name="cat_desi">Desi</string>
+    <string name="cat_islamic">Islamic</string>
+    <string name="my_stickers_name">My Stickers %1$d</string>
+    <string name="my_animated_name">My Animated %1$d</string>
+    <string name="pack_meta">%1$s · %2$d stickers</string>
+    <string name="add">Add</string>
+    <string name="added">Added ✓</string>
+    <string name="add_to_whatsapp">Add to WhatsApp</string>
+    <string name="need_more">Make %1$d more</string>
+    <string name="need_more_long">WhatsApp needs at least %1$d stickers in a pack.</string>
+    <string name="make_more">Make more stickers</string>
+    <string name="add_failed">Sticker pack could not be added</string>
+    <string name="no_whatsapp_title">WhatsApp not found</string>
+    <string name="no_whatsapp">Install WhatsApp to use these stickers.</string>
+    <string name="install">Install</string>
+    <string name="mine_empty">Stickers you make or import show up here.</string>
+    <string name="mine_empty_button">Make your first sticker</string>
+    <string name="search_hint">Search: love, lol, eid, salam…</string>
+    <string name="search_empty">No stickers found</string>
+    <string name="credits">Credits &amp; licenses</string>
+
+    <!-- maker -->
+    <string name="make_sticker">Create</string>
+    <string name="maker_title">Create sticker</string>
+    <string name="maker_hint">Type text (English, Roman Urdu, اردو…)</string>
+    <string name="maker_placeholder">Type here</string>
+    <string name="maker_need_text">Type something or pick a photo first</string>
+    <string name="font">Font</string>
+    <string name="font_latin">ABC</string>
+    <string name="font_urdu">اردو</string>
+    <string name="shape_circle">Round</string>
+    <string name="shape_rounded">Square</string>
+    <string name="shape_text">Text only</string>
+    <string name="colour">Colour</string>
+    <string name="text_colour">Text colour</string>
+    <string name="animation">Animation</string>
+    <string name="effect_none">None</string>
+    <string name="effect_pulse">Pulse</string>
+    <string name="effect_bounce">Bounce</string>
+    <string name="effect_shake">Shake</string>
+    <string name="effect_rainbow">Rainbow</string>
+    <string name="pick_photo">Pick photo</string>
+    <string name="pick_media">GIF / Video</string>
+    <string name="clear_photo">Remove</string>
+    <string name="edit_photo">Edit</string>
+    <string name="remove_bg">Remove background</string>
+    <string name="restore_bg">Bring background back</string>
+    <string name="removing_bg">Removing background…</string>
+    <string name="removing_bg_frames">Removing background… %1$d / %2$d</string>
+    <string name="remove_bg_failed">Couldn\'t remove the background. Turn on internet and try again (the first time downloads a small model).</string>
+    <string name="remove_bg_none">No person or object found in this photo.</string>
+    <string name="loading">Loading…</string>
+    <string name="saving">Saving…</string>
+    <string name="media_failed">This file couldn\'t be opened. Try another GIF or video.</string>
+    <string name="save_sticker">Save sticker</string>
+    <string name="saved_need_more">Saved! Make %1$d more for WhatsApp.</string>
+    <string name="saved_ready">Saved! \"%1$s\" is ready to add to WhatsApp.</string>
+    <string name="delete_sticker">Delete this sticker?</string>
+    <string name="delete">Delete</string>
+
+    <!-- editor -->
+    <string name="editor_title">Edit photo</string>
+    <string name="editor_hint">Two fingers: move, zoom, rotate. One finger: erase or restore.</string>
+    <string name="tool_move">Move</string>
+    <string name="tool_erase">Erase</string>
+    <string name="tool_restore">Restore</string>
+    <string name="brush_size">Brush</string>
+    <string name="rotate">Rotate</string>
+    <string name="undo">Undo</string>
+    <string name="reset">Reset</string>
+    <string name="done">Done</string>
+
+    <!-- share / import -->
+    <string name="share_pack">Share pack</string>
+    <string name="delete_pack">Delete pack</string>
+    <string name="delete_pack_confirm">Delete this whole pack? It will also disappear from WhatsApp.</string>
+    <string name="import_pack">Import pack</string>
+    <string name="import_confirm">Add this sticker pack? Only open packs from people you trust.</string>
+    <string name="import_ok">\"%1$s\" added!</string>
+    <string name="import_bad">This is not a valid StickRang pack.</string>
+    <string name="share_via">Send pack</string>
+</resources>

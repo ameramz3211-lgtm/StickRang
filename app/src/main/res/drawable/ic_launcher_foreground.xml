@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <!-- white die-cut sticker with a peeled corner and a winking face -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M40,30h28a12,12 0,0 1,12 12v20l-18,18H40a12,12 0,0 1,-12 -12V42a12,12 0,0 1,12 -12z"/>
+    <path android:fillColor="#FFC94D" android:pathData="M80,62L62,80V70a8,8 0,0 1,8 -8z"/>
+    <path android:fillColor="#6C2BD9"
+        android:pathData="M42,50a4.5,4.5 0,1 1,9 0a4.5,4.5 0,1 1,-9 0z"/>
+    <path android:strokeColor="#6C2BD9" android:strokeWidth="4" android:strokeLineCap="round"
+        android:pathData="M58,50h9"/>
+    <path android:strokeColor="#FF3D7F" android:strokeWidth="4.5" android:strokeLineCap="round"
+        android:pathData="M44,61q10,9 20,0"/>
+</vector>

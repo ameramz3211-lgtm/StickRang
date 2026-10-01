@@ -1,0 +1,906 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "funny_reactions",
+      "name": "Funny Reactions",
+      "publisher": "StickRang",
+      "category": "funny",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "animated_sticker_pack": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": [
+            "😂"
+          ],
+          "accessibility_text": "LOL"
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": [
+            "😱"
+          ],
+          "accessibility_text": "OMG"
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": [
+            "😑"
+          ],
+          "accessibility_text": "Bruh"
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": [
+            "🙋"
+          ],
+          "accessibility_text": "Same!"
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": [
+            "🙅"
+          ],
+          "accessibility_text": "Nope"
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": [
+            "🤨"
+          ],
+          "accessibility_text": "Really?"
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": [
+            "💀"
+          ],
+          "accessibility_text": "I'm dead"
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": [
+            "😌"
+          ],
+          "accessibility_text": "Mood"
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": [
+            "😳"
+          ],
+          "accessibility_text": "No way!"
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "🤦"
+          ],
+          "accessibility_text": "Facepalm"
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "🙌"
+          ],
+          "accessibility_text": "Yasss!"
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "🙄"
+          ],
+          "accessibility_text": "Whatever"
+        }
+      ]
+    },
+    {
+      "identifier": "love_hearts",
+      "name": "Love & Hearts",
+      "publisher": "StickRang",
+      "category": "love",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "animated_sticker_pack": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": [
+            "❤️"
+          ],
+          "accessibility_text": "Love you"
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": [
+            "🥺"
+          ],
+          "accessibility_text": "Miss you"
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": [
+            "💞"
+          ],
+          "accessibility_text": "You're mine"
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": [
+            "🤗"
+          ],
+          "accessibility_text": "Hugs"
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": [
+            "😘"
+          ],
+          "accessibility_text": "Kisses"
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": [
+            "💭"
+          ],
+          "accessibility_text": "Thinking of you"
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": [
+            "🥰"
+          ],
+          "accessibility_text": "Cutie"
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": [
+            "💍"
+          ],
+          "accessibility_text": "Always"
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": [
+            "💌"
+          ],
+          "accessibility_text": "Be mine"
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "💋"
+          ],
+          "accessibility_text": "XOXO"
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "🍬"
+          ],
+          "accessibility_text": "Sweetheart"
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "💑"
+          ],
+          "accessibility_text": "Forever us"
+        }
+      ]
+    },
+    {
+      "identifier": "hello_bye",
+      "name": "Hello & Bye",
+      "publisher": "StickRang",
+      "category": "greetings",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "animated_sticker_pack": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": [
+            "👋"
+          ],
+          "accessibility_text": "Hi!"
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "Hello"
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": [
+            "🙂"
+          ],
+          "accessibility_text": "How are you?"
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": [
+            "🙏"
+          ],
+          "accessibility_text": "Thank you"
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": [
+            "🤗"
+          ],
+          "accessibility_text": "Welcome"
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": [
+            "💐"
+          ],
+          "accessibility_text": "Take care"
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": [
+            "👀"
+          ],
+          "accessibility_text": "See you"
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": [
+            "👋"
+          ],
+          "accessibility_text": "Bye bye"
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": [
+            "🤒"
+          ],
+          "accessibility_text": "Get well soon"
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "😔"
+          ],
+          "accessibility_text": "Sorry"
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "🍀"
+          ],
+          "accessibility_text": "Good luck"
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "🎉"
+          ],
+          "accessibility_text": "Congrats!"
+        }
+      ]
+    },
+    {
+      "identifier": "party_time",
+      "name": "Birthday & Party",
+      "publisher": "StickRang",
+      "category": "celebrations",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "animated_sticker_pack": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": [
+            "🎂"
+          ],
+          "accessibility_text": "Happy Birthday"
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": [
+            "🥳"
+          ],
+          "accessibility_text": "Party time!"
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": [
+            "🥂"
+          ],
+          "accessibility_text": "Cheers!"
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": [
+            "🎁"
+          ],
+          "accessibility_text": "Best wishes"
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": [
+            "💐"
+          ],
+          "accessibility_text": "Happy Anniversary"
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": [
+            "🎊"
+          ],
+          "accessibility_text": "Let's celebrate"
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": [
+            "🍰"
+          ],
+          "accessibility_text": "Cake time"
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": [
+            "🎈"
+          ],
+          "accessibility_text": "Surprise!"
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": [
+            "🤘"
+          ],
+          "accessibility_text": "You rock!"
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "🏆"
+          ],
+          "accessibility_text": "Well done"
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "🎆"
+          ],
+          "accessibility_text": "Happy New Year"
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "💒"
+          ],
+          "accessibility_text": "Wedding vibes"
+        }
+      ]
+    },
+    {
+      "identifier": "desi_replies",
+      "name": "Desi Replies",
+      "publisher": "StickRang",
+      "category": "desi",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "animated_sticker_pack": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": [
+            "😎"
+          ],
+          "accessibility_text": "Kya scene hai?"
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": [
+            "😌"
+          ],
+          "accessibility_text": "Chill kar yaar"
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": [
+            "🤣"
+          ],
+          "accessibility_text": "Bas kar pagle"
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": [
+            "😍"
+          ],
+          "accessibility_text": "Haye main mar jawan"
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": [
+            "👍"
+          ],
+          "accessibility_text": "Theek hai boss"
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": [
+            "🤨"
+          ],
+          "accessibility_text": "Acha ji?"
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": [
+            "☕"
+          ],
+          "accessibility_text": "Chai pe chalo"
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": [
+            "🙈"
+          ],
+          "accessibility_text": "Uff tauba"
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": [
+            "🙄"
+          ],
+          "accessibility_text": "Kaam ki baat karo"
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "😂"
+          ],
+          "accessibility_text": "Hahaha"
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "🙅"
+          ],
+          "accessibility_text": "Nahi yaar"
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "👌"
+          ],
+          "accessibility_text": "Sab set hai"
+        }
+      ]
+    },
+    {
+      "identifier": "islamic_greetings",
+      "name": "Islamic Greetings",
+      "publisher": "StickRang",
+      "category": "islamic",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "animated_sticker_pack": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": [
+            "👋"
+          ],
+          "accessibility_text": "Assalam o Alaikum"
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": [
+            "🤝"
+          ],
+          "accessibility_text": "Walaikum Assalam"
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": [
+            "🤲"
+          ],
+          "accessibility_text": "JazakAllah Khair"
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": [
+            "✨"
+          ],
+          "accessibility_text": "MashaAllah"
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": [
+            "🤲"
+          ],
+          "accessibility_text": "InshaAllah"
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": [
+            "🌙"
+          ],
+          "accessibility_text": "SubhanAllah"
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": [
+            "💚"
+          ],
+          "accessibility_text": "Alhamdulillah"
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": [
+            "🤲"
+          ],
+          "accessibility_text": "Ameen"
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": [
+            "🕌"
+          ],
+          "accessibility_text": "Jumma Mubarak"
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "📿"
+          ],
+          "accessibility_text": "Dua mein yaad rakhna"
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "😔"
+          ],
+          "accessibility_text": "Astaghfirullah"
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "👋"
+          ],
+          "accessibility_text": "Allah Hafiz"
+        }
+      ]
+    },
+    {
+      "identifier": "subah_shaam",
+      "name": "Good Morning & Night",
+      "publisher": "StickRang",
+      "category": "greetings",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "animated_sticker_pack": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": [
+            "🌅"
+          ],
+          "accessibility_text": "Subah Bakhair"
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": [
+            "☀️"
+          ],
+          "accessibility_text": "Good Morning"
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": [
+            "⏰"
+          ],
+          "accessibility_text": "Utho bhai subah ho gayi"
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": [
+            "☕"
+          ],
+          "accessibility_text": "Chai ready hai?"
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": [
+            "🌻"
+          ],
+          "accessibility_text": "Have a nice day"
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": [
+            "🌙"
+          ],
+          "accessibility_text": "Shab Bakhair"
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": [
+            "😴"
+          ],
+          "accessibility_text": "Good Night"
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": [
+            "🛌"
+          ],
+          "accessibility_text": "So jao ab"
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": [
+            "💤"
+          ],
+          "accessibility_text": "Sweet dreams"
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "🥱"
+          ],
+          "accessibility_text": "Neend aa rahi hai"
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "🌜"
+          ],
+          "accessibility_text": "Jaldi so jana"
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "👋"
+          ],
+          "accessibility_text": "Kal milte hain"
+        }
+      ]
+    },
+    {
+      "identifier": "pyar_family",
+      "name": "Pyar & Family",
+      "publisher": "StickRang",
+      "category": "love",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "animated_sticker_pack": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": [
+            "🥺"
+          ],
+          "accessibility_text": "Miss you yaar"
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": [
+            "❤️"
+          ],
+          "accessibility_text": "Love you"
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": [
+            "🤲"
+          ],
+          "accessibility_text": "Ammi ki dua"
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": [
+            "👨"
+          ],
+          "accessibility_text": "Abbu ki jaan"
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": [
+            "😘"
+          ],
+          "accessibility_text": "Meri jaan"
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": [
+            "😢"
+          ],
+          "accessibility_text": "Naraz ho?"
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": [
+            "🙏"
+          ],
+          "accessibility_text": "Sorry na"
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": [
+            "🌟"
+          ],
+          "accessibility_text": "Tum best ho"
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": [
+            "💪"
+          ],
+          "accessibility_text": "Bhai jaan"
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "🌸"
+          ],
+          "accessibility_text": "Behna"
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "🏡"
+          ],
+          "accessibility_text": "Family first"
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "Khush raho"
+        }
+      ]
+    },
+    {
+      "identifier": "eid_ramadan",
+      "name": "Eid & Ramadan",
+      "publisher": "StickRang",
+      "category": "islamic",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "animated_sticker_pack": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": [
+            "🌙"
+          ],
+          "accessibility_text": "Eid Mubarak"
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": [
+            "🏮"
+          ],
+          "accessibility_text": "Ramadan Kareem"
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": [
+            "🌙"
+          ],
+          "accessibility_text": "Chaand Raat Mubarak"
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": [
+            "💸"
+          ],
+          "accessibility_text": "Eidi kahan hai?"
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": [
+            "🍉"
+          ],
+          "accessibility_text": "Iftar time!"
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": [
+            "⏰"
+          ],
+          "accessibility_text": "Sehri ka waqt"
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": [
+            "🤲"
+          ],
+          "accessibility_text": "Roza rakha hai"
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": [
+            "🍤"
+          ],
+          "accessibility_text": "Pakoray ready"
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": [
+            "🐐"
+          ],
+          "accessibility_text": "Eid ul Adha Mubarak"
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "✨"
+          ],
+          "accessibility_text": "Shab e Barat Mubarak"
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "🕌"
+          ],
+          "accessibility_text": "Taraweeh chalo"
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "🍬"
+          ],
+          "accessibility_text": "Mithai khao"
+        }
+      ]
+    }
+  ]
+}
