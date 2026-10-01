@@ -22,7 +22,17 @@ jobs:
         run: |
           chmod +x gradlew
           set -o pipefail
-          ./gradlew --no-daemon bundleRelease 2>&1 | tee build.log
+          ./gradlew --no-daemon bundleRelease assembleRelease 2>&1 | tee build.log
+      # Test APK: release build signed with a throwaway key so it can be sideloaded.
+      # Play uploads use the AAB, which is signed with the real release key offline.
+      - name: Sign test APK
+        run: |
+          BT=$(ls -d $ANDROID_HOME/build-tools/* | sort -V | tail -1)
+          keytool -genkeypair -keystore test.jks -storepass android -keypass android -alias test \
+            -keyalg RSA -keysize 2048 -validity 10000 -dname "CN=StickRang Test"
+          $BT/zipalign -f 4 app/build/outputs/apk/release/app-release-unsigned.apk aligned.apk
+          $BT/apksigner sign --ks test.jks --ks-pass pass:android --out StickRang-test.apk aligned.apk
+          $BT/apksigner verify StickRang-test.apk
       # Surface compiler errors as annotations so they can be read without the raw log.
       - name: Report build errors
         if: failure()
@@ -38,7 +48,7 @@ jobs:
       # Also publish the bundle to the build-output branch so it can be fetched with plain git.
       - name: Push bundle to build-output branch
         run: |
-          mkdir out && cp app/build/outputs/bundle/release/*.aab out/
+          mkdir out && cp app/build/outputs/bundle/release/*.aab StickRang-test.apk out/
           cd out
           git init -q -b build-output
           git -c user.name=ci -c user.email=ci@users.noreply.github.com add .
